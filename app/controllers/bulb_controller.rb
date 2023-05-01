@@ -1,0 +1,2 @@
+class BulbController < ApplicationController
+end
